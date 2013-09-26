@@ -1,6 +1,6 @@
 ## Common Folder Tidy ##
 
-Welcome here! **CFT** provider a Simple way to help you tidy your folders and files.
+Welcome here! **CFT** provide a simple way to help you tidy your folders and files.
 
 ### [Screenshots]
 

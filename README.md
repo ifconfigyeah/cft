@@ -4,9 +4,9 @@ Welcome here! **CFT** provider a Simple way to help you tidy your folders and fi
 
 ### [Screenshots]
 
-![sample 1](https://raw.github.com/ifconfigyeah/cfr/master/quick%20look/sample/sample1.png)
-![sample 2](https://raw.github.com/ifconfigyeah/cfr/master/quick%20look/sample/sample2.png)
-![sample 3](https://raw.github.com/ifconfigyeah/cfr/master/quick%20look/sample/sample3.jpg)
+![sample 1](https://raw.github.com/ifconfigyeah/cft/master/quick%20look/sample/sample1.png)
+![sample 2](https://raw.github.com/ifconfigyeah/cft/master/quick%20look/sample/sample2.png)
+![sample 3](https://raw.github.com/ifconfigyeah/cft/master/quick%20look/sample/sample3.jpg)
 
 
 ### [What Is CFT]

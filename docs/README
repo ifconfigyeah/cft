@@ -1,0 +1,74 @@
+       -[ cft.py ]-
+ -[ Common Folder Tidy ]-
+  
+
+ 
+ [ About ]
+
+  Welcome here! Common Folder Tidy(CFT) is a simple, useful and powerful tool to help 
+  make your Computer(Such as Download folders and Desktop) clean and tidy.
+  CFT is written in Python language. Works on Mac, Windows, Linux and other 
+  POSIX-compatible platforms.
+
+  CFT requires the following package to run:
+
+  * [python](http://python.org/) — we recommend using version 2.7 (the latest is 2.7.5)
+
+  It will be my pleasure if you want to translate CFT instructions and other documents 
+  into your language(including English), please let me know :) Any questions, suggestions 
+  or bug reports are also welcome, or you can just connecting on CFT Issues.
+
+  This program is free software; you can redistribute it and modify it under the terms
+  of the GNU General Public License as published by the Free Software Foundation; 
+  either version 3 of the License, or any later version.
+
+  Thank you for you using!
+
+
+  
+ [ Options ]
+
+   Usage: Python cft.py [PATH] 
+   
+	Advanced Options:
+  	 
+        -h            	help menu
+
+        -v     		version of the program	
+
+	-f      	search files matching given patterns
+			-f [PATH] [FILENAME]
+
+		
+
+ [ Configuration ]
+
+   Common Folder Tidy has configuration file cft.cfg with instructions.
+
+
+
+ [ License ]
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3 of the License, or
+  any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+  See 'docs/LICENSE' for more information.
+
+
+
+ [ Author ]
+
+  ZWY, ifconfigyeah
+  http://www.sfykid.com
+  zwycn [at] icloud [dot] com

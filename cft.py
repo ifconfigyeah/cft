@@ -37,6 +37,9 @@ import shutil
 import glob
 import codecs
 
+reload(sys)
+sys.setdefaultencoding('gbk')
+
 class CommonFolderTidy:
 
     def __init__(self):
@@ -216,7 +219,7 @@ class CommonFolderTidy:
         self.validateConfig()
 
         if self.isWin:
-            targets = [item.decode('gb2312') for item in os.listdir(absolutePath)]
+            targets = [item.decode('gbk') for item in os.listdir(absolutePath)]
         else: 
             targets = os.listdir(absolutePath)
         newPos = self.prepareEnvironment(absolutePath)
